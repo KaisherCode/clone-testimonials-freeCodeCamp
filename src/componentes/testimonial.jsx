@@ -1,5 +1,6 @@
 import React from "react";
 import imagesEmma from  "../images/Emma-Bostian.png";
+import "../styles/Testimonial.css";
 
 function Testimonial() {
   return (
